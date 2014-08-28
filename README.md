@@ -61,4 +61,4 @@ Random gadgets for blogging on WordPress.
 2. BUGS
 --------
 
- * Insanely hackish.
+ * Insanely hackish and stupid.
