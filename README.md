@@ -30,8 +30,24 @@ Random gadgets for blogging on WordPress.
     (channer) $ cat thoughts.txt
     Hello, [Google Glass], meet the [NEXUS FIVE|http://www.google.com/nexus/5/].
 
+    Let me show some code:
+
+    <pre>
+      public class ... {
+         ...A.L.L.Y.O.U.R.B.A.S.E.S.A.R.E.B.E.L.O.N.G.I.N.G.T.O.U.S.
+      }
+    </pre>
+
     (channer) $ resolve-links words.tsv < thoughts.txt
-    Hello, <a href="http://www.google.com/glass/start/" title="Google Glass">Google Glass</a>, meet the <a href="http://www.google.com/nexus/5/" title="Nexus 5 - Google">NEXUS FIVE</a>.
+    <p>Hello, <a href="http://www.google.com/glass/start/" title="Google Glass">Google Glass</a>, meet the <a href="http://www.google.com/nexus/5/" title="Nexus 5 - Google">NEXUS FIVE</a>.</p>
+    <br />
+    <p>Let me show some code:</p>
+    <br />
+    <pre>
+      public class ... {
+         ...A.L.L.Y.O.U.R.B.A.S.E.S.A.R.E.B.E.L.O.N.G.I.N.G.T.O.U.S.
+      }
+    </pre>
 
 1. FEATURES
 -----------
